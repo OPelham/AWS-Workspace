@@ -42,9 +42,19 @@ access vulnerabilities and strays from security best practice
 Managed DDoS protection service
 always on detectio and mitigations
 
-#### Security Compliance
+# OVERVIEWS
+
+#### EC2
+elestic compute cloud
+an instance is a server
+
+##### Setting up an instance
+Select region
+EC2 launch instance
+Select AMI
+Select Hardwate 
+Tags give easier identifier eg Key -name value-something easier
+
+SSHing in 
 
 
-Cloud based governance
-
-Compliance and certification
